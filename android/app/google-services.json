@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "980791881079",
+    "project_id": "fash-chat-77040",
+    "storage_bucket": "fash-chat-77040.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980791881079:android:1a599eda120f29f19b8572",
+        "android_client_info": {
+          "package_name": "com.Elhamzi.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMyeJ8qelRXdHKTmIdfUMIztRez21lz9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
